@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exercise6_7",
+      "request": "launch",
+      "mainClass": "objec_oriented_programming.Exercise6_7",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise6_6",
+      "request": "launch",
+      "mainClass": "objec_oriented_programming.Exercise6_6",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise6_5",
+      "request": "launch",
+      "mainClass": "objec_oriented_programming.Exercise6_5",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise6_4",
+      "request": "launch",
+      "mainClass": "objec_oriented_programming.Exercise6_4",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise6_2",
+      "request": "launch",
+      "mainClass": "objec_oriented_programming.Exercise6_2",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise6_1",
+      "request": "launch",
+      "mainClass": "objec_oriented_programming.Exercise6_1",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
       "name": "Exercise5_12",
       "request": "launch",
       "mainClass": "array.Exercise5_12",
