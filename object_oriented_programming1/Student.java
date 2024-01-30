@@ -1,4 +1,4 @@
-package object_oriented_programming;
+package object_oriented_programming1;
 
 class Student {
     String name;

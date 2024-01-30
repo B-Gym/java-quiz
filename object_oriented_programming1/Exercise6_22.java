@@ -1,4 +1,4 @@
-package object_oriented_programming;
+package object_oriented_programming1;
 
 public class Exercise6_22 {
     public static void main(String[] args) {

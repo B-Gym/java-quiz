@@ -1,4 +1,4 @@
-package object_oriented_programming;
+package object_oriented_programming1;
 
 public class Marine {
     int x = 0, y = 0; // Marine의 위치좌표(x,y) int hp = 60; // 현재 체력

@@ -1,4 +1,4 @@
-package object_oriented_programming;
+package object_oriented_programming1;
 
 public class Exercise6_6 {
     static double getDistance(int x, int y, int x1, int y1) {
