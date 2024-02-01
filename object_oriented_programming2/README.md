@@ -207,3 +207,56 @@ c.x=2000
   </br>
 </p>
 </details>
+
+<h4>
+[7-21] 다음과 같이 attack메서드가 정의되어 있을 때, 이 메서드의 매개변수로 가능한 것 두 가지를 적으시오.
+</h4>
+
+```java
+interface Movable {
+    void move(int x, int y);
+}
+
+void attack(Movable f) { }
+```
+
+<details>
+<summary>[7-21 정답]</summary>
+<p id="answer">
+null, Movable인터페이스를 구현한 클래스 또는 그 자손의 인스턴스
+  </br>
+</p>
+</details>
+
+<h4>
+[7-24] 다음 중 인터페이스의 장점이 아닌 것은?
+</h4>
+</br>
+
+<p>
+a. 표준화를 가능하게 해준다.</br>
+b. 서로 관계없는 클래스들에게 관계를 맺어 줄 수 있다.</br>
+ c. 독립적인 프로그래밍이 가능하다.</br>
+d. 다중상속을 가능하게 해준다.</br>
+e. 패키지간의 연결을 도와준다.
+</p>
+
+<details>
+<summary>[7-24 정답]</summary>
+<p id="answer">
+e. 패키지간의 연결을 도와준다.
+  </br>
+</p>
+</details>
+
+<h4>
+[7-29] 지역 클래스에서 외부 클래스의 인스턴스 멤버와 static멤버에 모두 접근할 수 있지만, 지역변수는 final이 붙은 상수만 접근할 수 있는 이유 무엇인가?
+</h4></br>
+
+<details>
+<summary>[7-29 정답]</summary>
+<p id="answer">
+ 메서드가 수행을 마쳐서 지역변수가 소멸된 시점에도, 지역 클래스의 인스턴스가 소멸된 지역변수를 참조하려는 경우가 발생할 수 있기 때문이다.
+  </br>
+</p>
+</details>

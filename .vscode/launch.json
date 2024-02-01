@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exercise7_27",
+      "request": "launch",
+      "mainClass": "object_oriented_programming2.Exercise7_27",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise7_26",
+      "request": "launch",
+      "mainClass": "object_oriented_programming2.Exercise7_26",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise7_25",
+      "request": "launch",
+      "mainClass": "object_oriented_programming2.Exercise7_25",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise7_23",
+      "request": "launch",
+      "mainClass": "object_oriented_programming2.Exercise7_23",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
       "name": "Exercise7_19",
       "request": "launch",
       "mainClass": "object_oriented_programming2.Exercise7_19",
