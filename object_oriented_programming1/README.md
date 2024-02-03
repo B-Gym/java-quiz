@@ -1,16 +1,5 @@
 ## 6장 객체지향 프로그래밍1 연습문제
 
-<style>
-    h4 {font-size: 13px}
-    p {font-size: 12px;}
-    #answer{
-        color: pink;
-    }
-    summary {
-        font-size: 12px;
-    }
-</style>
-
 <h4>
 [6-10] 다음 중 생성자에 대한 설명으로 옳지 않은 것은? (모두 고르시오) 
 </h4>
