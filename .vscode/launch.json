@@ -6,6 +6,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exercise9_10",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_10",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_9",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_9",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_8",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_8",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_7",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_7",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_6",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_6",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_5",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_5",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_4",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_4",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_3",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_3",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_2",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_2",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_1",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_1",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
       "name": "Exercise8_10",
       "request": "launch",
       "mainClass": "exception_handling.Exercise8_10",
