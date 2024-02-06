@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exercise9_14",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_14",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_13",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_13",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_12",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_12",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9_11",
+      "request": "launch",
+      "mainClass": "java_lang_package_and_util_classes.Exercise9_11",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
       "name": "Exercise9_10",
       "request": "launch",
       "mainClass": "java_lang_package_and_util_classes.Exercise9_10",
