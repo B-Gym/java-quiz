@@ -6,6 +6,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exercise10_8",
+      "request": "launch",
+      "mainClass": "date_time_formatting.Exercise10_8",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise10_7",
+      "request": "launch",
+      "mainClass": "date_time_formatting.Exercise10_7",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise10_3",
+      "request": "launch",
+      "mainClass": "date_time_formatting.Exercise10_3",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise10_4",
+      "request": "launch",
+      "mainClass": "date_time_formatting.Exercise10_4",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise10_2",
+      "request": "launch",
+      "mainClass": "date_time_formatting.Exercise10_2",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise10_6",
+      "request": "launch",
+      "mainClass": "date_time_formatting.Exercise10_6",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise10_5",
+      "request": "launch",
+      "mainClass": "date_time_formatting.Exercise10_5",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
+      "name": "Exercise10_1",
+      "request": "launch",
+      "mainClass": "date_time_formatting.Exercise10_1",
+      "projectName": "java-quiz_9f7ebc82"
+    },
+    {
+      "type": "java",
       "name": "Exercise9_14",
       "request": "launch",
       "mainClass": "java_lang_package_and_util_classes.Exercise9_14",
