@@ -23,15 +23,21 @@ d. new Box<String>().setItem("ABC");
 <details>
 <summary>[12-1 정답]</summary>
 <p id="answer">
+<p>
+
+```java
 a. Box<Object> b = new Box<String>();</br>
 b. Box<Object> b = (Object)new Box<String>();</br>
 c. new Box<String>().setItem(new Object()); </br>
+```
+
 </p>
 </details>
 
 <h4>
 [12-2] 지네릭 메서드 makeJuice()가 아래와 같이 정의되어 있을 때, 이 메서드를 올바 르게 호출한 문장을 모두 고르시오.
-</br>(Apple과 Grape는 Fruit의 자손이라고 가정하자.)</h4>
+</br>(Apple과 Grape는 Fruit의 자손이라고 가정하자.)
+</h4>
 
 ```java
 class Juicer {
@@ -86,9 +92,13 @@ g. Box<? extends Object> b = new Box<? extends Fruit>();</br>
 <details>
 <summary>[12-3 정답]</summary>
 <p id="answer">
-c. Box<?> b = new Box<Object>();</br>
-d. Box<Object> b = new Box<Fruit>();</br>
-g. Box<? extends Object> b = new Box<? extends Fruit>();</br>
+
+```java
+c. Box<?> b = new Box<Object>();
+d. Box<Object> b = new Box<Fruit>();
+g. Box<? extends Object> b = new Box<? extends Fruit>();
+```
+
 </p>
 </br>
 </p>
